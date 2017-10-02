@@ -1,3 +1,6 @@
+# Insallation
+A popup opens when plugged in for the first time. The keyboard should be recognized as ISO.
+
 # truly-ergonomic-macos-fr
 My custom layout for the truly ergonomic 229 on OSX french AZERTY
 
